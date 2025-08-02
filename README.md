@@ -5,9 +5,8 @@
 
 - 🌐 Portfolio: [proken.cynex.me](https://t.me/proken_cynex)  
 - 🎨 Graphic Designer | HTML/CSS Front-End Developer  
-- 🔭 Currently building: `Ken by NEXHO` (Offline Voice AI Bot)
 - 🧠 Learning: JS, Python, c++, html/css and AI integration
-- ⚡ Fun fact: I can design and game at the same time 😎
+
 
 ---
 
@@ -30,18 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Proken's GitHub stats](https://github-readme-stats.vercel.app/api?username=proken-cynex&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proken-cynex&layout=compact&theme=tokyonight)
-
-### 🎮 Gaming & Vibes
-
-> “Design is power, Gaming is my fuel.”  
-> Building immersive GFX edits, passionate about game art & tech.
-
----
 
 ### 🌟 Support
 
